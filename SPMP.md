@@ -145,9 +145,6 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
             <th>1 2 3 4</th>
         </tr>
         <tr>
-            <center>Kategori Kegiatan</center>
-        </tr>
-        <tr>
             <td>Nama</td>
             <td>1. Priliyandi</td>
             <td>2. Riyanwar Setiadi</td>
