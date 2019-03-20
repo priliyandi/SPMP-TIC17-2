@@ -1,4 +1,4 @@
-<center><font size="5"><b>Software Project Management Plan</b></font><br></center>
+<font size="5"><b><center>Software Project Management Plan</center></b></font><br>
 
 <center>"Sistem Informasi Absensi dan Penggajian Kafka Konveksi"</center><br>
 
