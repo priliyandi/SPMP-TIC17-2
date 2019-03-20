@@ -125,3 +125,95 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
    
 **4.3** **Fungsi-fungsi pendukung proyek**
         <ol>Semua pendukung proyek akan selesai secara bertahap</ol>
+
+**5.** **Paket pekerjaan, jadwal, dan budget**<br>
+**5.1** **Paket pekerjaan**<br>
+    <center>Paket Pekerjaan</center>
+|Bulan      |Februari   |Maret      |April      |
+|Minggu |1  2  3  4     |1  2  3  4 |1  2  3  4     |
+|:---       |
+<center>Kategori Kegiatan</center>
+|Nama       |
+|1. Priliyandi  |W  W  W   V |V  V  V  V |V  V  X  X |
+|2. Riyanwar S. |W  W  V   V |V  V  V  V |V  V  X  X |
+|3. Setyo A.    |W  W  W   W |V  V  V  V |V  V  X  X |
+|4. Uum K.      |W  W  W   W |V  V  V  V |V  V  X  X |
+
+<center>Paket Pekerjaan</center>
+|Bulan      |Mei            |Juni       |Juli       |
+|Minggu     |1  2  3  4     |1  2  3  4 |1  2  3  4 |
+|:---       |
+<center>Kategori Kegiatan</center>
+|Nama       |
+|1. Priliyandi  |X  X  Y   Y    |Y  Y  X  X |Z  Z  A  A |
+|2. Riyanwar S. |Y  Y  Y   Y    |Y  Y  Y  Y |X  X  A  A |
+|3. Setyo A.    |X  X  Y   Y    |Y  Y  X  X |X  X  A  A |
+|4. Uum K.      |Y  Y  Y   Y    |Y  Y  Y  X |Z  Z  A  A |
+Kategori Kegiatan : <br>
+(V) :Pengerjaan projek dari koding dan pencarian referensi hingga
+dilakukan pengecekan. <br>
+(W) :Persiapan projek dan pengumpulan sumber daya yg di perlukan. <br>
+(X) :Pengecekan hasil projek, berupa pengecekan terhadap error code pada
+program. <br>
+(Y) :Melakukan perbaikan projek yang sudah dicek. <br>
+(Z) :Waktu pengerjaan dokumen-dokumen. <br>
+(A) :Presentasi projek<br>
+
+**5.2** **Ketergantungan/keterkaitan**<br>
+        <center>Tabel Ketergantungan dan Keterkaitan</center>
+|Dari       |Tugas Untuk    |Keterkaitan            |
+|Manager    |Anggota    |Tugas manager adalah untuk mengawasi anggota-anggotanya jika saat mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan |
+|Programmer |Tester     |Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.|
+|Administrator  |Manager    |Tugas Administrator bertanggung jawab untuk menyiapkan dokumen-dokumen yang akan di gunakan untuk penggarapan dan saat selesai hasil akhir projek. |
+|Analis     |Programmer |Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer. |
+|Tester     |Programmer |Bertugas sebagai memberi masukanmasukan kepada Programer untuk membuat program yang sedang di buat. |
+
+**5.3** **Kebutuhan Sumber Daya**<br>
+    Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat
+dilihat pada tabel berikut ini :<br>
+<center>Tabel Kebutuhan Sumber Daya Manusia</center>
+|No |Nama Personal      |Job            |
+|1. |Prilyandi          |Manager        |
+|2. |Riyanwar Setiadi   |programmer     |
+|3. |Setyo Abiansah     |Administrator  |
+|4. |Uum Kumaeroh       |Sistem Analis  |
+
+<center>Tabel Kebutuhan Sumber Daya Hardware</center>
+|No |Jenis hardware         |Kebutuhan Hardware         |
+|1. |Processor              |Minimal Core i3 atau lebih |
+|2. |Memory(RAM)            |Minimal 4GB atau lebih     |
+|3. |Penyimpanan(Harddisk)  |Minimum 2GB atau lebih     |
+
+
+**5.4** Alokasi budget dan sumber daya<br>
+    Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami,
+dapat dilihat pada tabel dibawah ini.<br>
+         <center>Tabel Estimasi Biaya Software</center>
+|No |Kebutuhan Software         |Biaya      |
+|1. |Win 7,  10 dan Linux           |Gratis     |
+|2. |Microsoft Visual Studion, Sublime  |Gratis         |
+|3. |Xampp              |Gratis     |
+|4. |Android Studio         |Gratis     |
+
+<center>Tabel Estimasi Biaya Hardware</center>
+|No |Jenis Hardware     ||Kebutuhan Hardware            |Biaya          |
+|1. |Laptop             |Minimal Core i3 atau lebih     |Rp 5.000.000,- |
+                        |Minimal RAM 4GB atau lebih     |
+                        |Kapasitas memori minimal 4GB   |
+
+**5.5** **Jadwal**<br>
+    Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak
+ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja
+pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut :<br>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image</title>
+</head>
+<body>
+    <img src="Jadwal.png"/>
+</body>
+</html>
+<<<<<<< HEAD
+
+>>>>>>> 327620f0d805144dd778d19a69c38291d5e887fc
