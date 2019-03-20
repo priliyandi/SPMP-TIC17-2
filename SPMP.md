@@ -149,62 +149,30 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
         </tr>
         <tr>
             <td>1. Priliyandi</td>
+            <td>W W W V</td>
+            <td>V V V V</td>
+            <td>V V X X</td>
+            <td>X X Y Y</td>
         </tr>
         <tr>
             <td>2. Riyanwar Setiadi</td>
+            <td>W W V V</td>
+            <td>V V V V</td>
+            <td>V V V V</td>
+            <td>V X Y Y</td>
         </tr>
         <tr>
             <td>3. Setyo Abiansah</td>
+            <td>W W W V</td>
+            <td>V V V V</td>
+            <td>V V X X</td>
+            <td>X X Y Y</td>
         </tr>
         <tr>
             <td>4. Uum Khumaeroh</td>
-        </tr>
-        <tr>
             <td>W W W V</td>
-        </tr>
-        <tr>
-            <td>W W V V</td>
-        </tr>
-        <tr>
-            <td>W W W V</td>
-        </tr>
-        <tr>    
-            <td>W W W V</td>
-        </tr>
-        <tr>
-            <td>V V V V</td>
-        </tr>
-        <tr>
-            <td>V V V V</td>
-        </tr>
-        <tr>
-            <td>V V V V</td>
-        </tr>
-        <tr>
-            <td>V V V V</td>
-        </tr>
-        <tr>
             <td>V V X X</td>
-        </tr>
-        <tr>
             <td>V V X X</td>
-        </tr>
-        <tr>
-            <td>V V X X</td>
-        </tr>
-        <tr>
-            <td>V V X X</td>
-        </tr>
-        <tr>
-            <td>X X Y Y</td>
-        </tr>
-        <tr>    
-            <td>Y Y Y Y</td>
-        </tr>
-        <tr>    
-            <td>X X Y Y</td>
-        </tr>
-        <tr>    
             <td>X Y Y Y</td>
         </tr>
     </table>
