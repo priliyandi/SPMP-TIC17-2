@@ -129,36 +129,66 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
 **5.** **Paket pekerjaan, jadwal, dan budget**<br>
 **5.1** **Paket pekerjaan**<br>
     <center>Paket Pekerjaan</center>
-|Bulan      |Februari   |Maret      |April      |
-|Minggu |1  2  3  4     |1  2  3  4 |1  2  3  4     |
-|:---       |
-<center>Kategori Kegiatan</center>
-|Nama       |
-|1. Priliyandi  |W  W  W   V |V  V  V  V |V  V  X  X |
-|2. Riyanwar S. |W  W  V   V |V  V  V  V |V  V  X  X |
-|3. Setyo A.    |W  W  W   W |V  V  V  V |V  V  X  X |
-|4. Uum K.      |W  W  W   W |V  V  V  V |V  V  X  X |
-
-<center>Paket Pekerjaan</center>
-|Bulan      |Mei            |Juni       |Juli       |
-|Minggu     |1  2  3  4     |1  2  3  4 |1  2  3  4 |
-|:---       |
-<center>Kategori Kegiatan</center>
-|Nama       |
-|1. Priliyandi  |X  X  Y   Y    |Y  Y  X  X |Z  Z  A  A |
-|2. Riyanwar S. |Y  Y  Y   Y    |Y  Y  Y  Y |X  X  A  A |
-|3. Setyo A.    |X  X  Y   Y    |Y  Y  X  X |X  X  A  A |
-|4. Uum K.      |Y  Y  Y   Y    |Y  Y  Y  X |Z  Z  A  A |
-Kategori Kegiatan : <br>
+    <table border="1">
+        <tr>
+            <th>Bulan</th>
+            <th>Februari</th>
+            <th>Maret</th>
+            <th>April</th>
+            <th>Mei</th>
+        </tr>
+        <tr>
+            <th>Minggu</th>
+            <th>1 2 3 4</th>
+            <th>1 2 3 4</th>
+            <th>1 2 3 4</th>
+            <th>1 2 3 4</th>
+        </tr>
+        <tr>
+            <center>Kategori Kegiatan</center>
+        </tr>
+        <tr>
+            <th>Nama</th>
+            <th>1. Priliyandi</th>
+            <th>2. Riyanwar Setiadi</th>
+            <th>3. Setyo Abiansah</th>
+            <th>4. Uum Khumaeroh</th>
+        </tr>
+        <tr>
+            <th>W W W V</th>
+            <th>W W V V</th>
+            <th>W W W V</th>
+            <th>W W W V</th>
+        </tr>
+        <tr>
+            <th>V V V V</th>
+            <th>V V V V</th>
+            <th>V V V V</th>
+            <th>V V V V</th>
+        </tr>
+        <tr>
+            <th>V V X X</th>
+            <th>V V X X</th>
+            <th>V V X X</th>
+            <th>V V X X</th>
+        </tr>
+        <tr>
+            <th>X X Y Y</th>
+            <th>Y Y Y Y</th>
+            <th>X X Y Y</th>
+            <th>X Y Y Y</th>
+        </tr>
+    </table>
+    <ol>
+        Kategori Kegiatan : <br>
 (V) :Pengerjaan projek dari koding dan pencarian referensi hingga
 dilakukan pengecekan. <br>
 (W) :Persiapan projek dan pengumpulan sumber daya yg di perlukan. <br>
 (X) :Pengecekan hasil projek, berupa pengecekan terhadap error code pada
 program. <br>
 (Y) :Melakukan perbaikan projek yang sudah dicek. <br>
-(Z) :Waktu pengerjaan dokumen-dokumen. <br>
-(A) :Presentasi projek<br>
-
+    </ol>
+<!--
 **5.2** **Ketergantungan/keterkaitan**<br>
         <center>Tabel Ketergantungan dan Keterkaitan</center>
 |Dari       |Tugas Untuk    |Keterkaitan            |
@@ -199,21 +229,18 @@ dapat dilihat pada tabel dibawah ini.<br>
 |No |Jenis Hardware     ||Kebutuhan Hardware            |Biaya          |
 |1. |Laptop             |Minimal Core i3 atau lebih     |Rp 5.000.000,- |
                         |Minimal RAM 4GB atau lebih     |
-                        |Kapasitas memori minimal 4GB   |
+                        |Kapasitas memori minimal 4GB   |--
 
+-->
 **5.5** **Jadwal**<br>
-    Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak
+    <ol>Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak
 ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja
-pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut :<br>
-<!DOCTYPE html>
+pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut :<br></ol>
 <html>
 <head>
-    <title>Image</title>
+    <title></title>
 </head>
 <body>
-    <img src="Jadwal.png"/>
+    <img src="Gambar/Jadwal.png" height="300px" width="500px;"/>
 </body>
 </html>
-<<<<<<< HEAD
-
->>>>>>> 327620f0d805144dd778d19a69c38291d5e887fc
