@@ -1,6 +1,5 @@
 <p align="center"><font size="5"><b>Software Project Management Plan</b></font><br>
-
-<center>"Sistem Informasi Absensi dan Penggajian Kafka Konveksi"</center><br></p>
+"Sistem Informasi Absensi dan Penggajian Kafka Konveksi"</p>
 
 <p align="center"><img src="Gambar/POLINDRA.png" width="250" height="250"></p>
 
@@ -14,7 +13,7 @@
     4. Uum Khumaeroh (1703084)
 </p>
 
-<font size="3" align="center">Kelas D3TI2C</font>
+<font size="3"><p align="center">Kelas D3TI2C</p></font>
 
 <br>
 
