@@ -148,7 +148,7 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
             <center>Kategori Kegiatan</center>
         </tr>
         <tr>
-            <th>Nama</th>
+            <td>Nama</td>
             <td>1. Priliyandi</td>
             <td>2. Riyanwar Setiadi</td>
             <td>3. Setyo Abiansah</td>
