@@ -143,9 +143,11 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
             <th>1 2 3 4</th>
             <th>1 2 3 4</th>
             <th>1 2 3 4</th>
-        </tr>
+        </tr>   
         <tr>
             <td>Nama</td>
+        </tr>
+        <tr>
             <td>1. Priliyandi</td>
             <td>2. Riyanwar Setiadi</td>
             <td>3. Setyo Abiansah</td>
