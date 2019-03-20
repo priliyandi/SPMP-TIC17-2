@@ -149,34 +149,34 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
         </tr>
         <tr>
             <th>Nama</th>
-            <th>1. Priliyandi</th>
-            <th>2. Riyanwar Setiadi</th>
-            <th>3. Setyo Abiansah</th>
-            <th>4. Uum Khumaeroh</th>
+            <td>1. Priliyandi</td>
+            <td>2. Riyanwar Setiadi</td>
+            <td>3. Setyo Abiansah</td>
+            <td>4. Uum Khumaeroh</td>
         </tr>
         <tr>
-            <th>W W W V</th>
-            <th>W W V V</th>
-            <th>W W W V</th>
-            <th>W W W V</th>
+            <td>W W W V</td>
+            <td>W W V V</td>
+            <td>W W W V</td>
+            <td>W W W V</td>
         </tr>
         <tr>
-            <th>V V V V</th>
-            <th>V V V V</th>
-            <th>V V V V</th>
-            <th>V V V V</th>
+            <td>V V V V</td>
+            <td>V V V V</td>
+            <td>V V V V</td>
+            <td>V V V V</td>
         </tr>
         <tr>
-            <th>V V X X</th>
-            <th>V V X X</th>
-            <th>V V X X</th>
-            <th>V V X X</th>
+            <td>V V X X</td>
+            <td>V V X X</td>
+            <td>V V X X</td>
+            <td>V V X X</td>
         </tr>
         <tr>
-            <th>X X Y Y</th>
-            <th>Y Y Y Y</th>
-            <th>X X Y Y</th>
-            <th>X Y Y Y</th>
+            <td>X X Y Y</td>
+            <td>Y Y Y Y</td>
+            <td>X X Y Y</td>
+            <td>X Y Y Y</td>
         </tr>
     </table>
     <ol>
@@ -238,7 +238,6 @@ ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja
 pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut :<br></ol>
 <html>
 <head>
-    <title></title>
 </head>
 <body>
     <img src="Gambar/Jadwal.png" height="300px" width="500px;"/>
