@@ -185,50 +185,157 @@ dilakukan pengecekan. <br>
 program. <br>
 (Y) :Melakukan perbaikan projek yang sudah dicek. <br>
     </ol>
-<!--
+
 **5.2** **Ketergantungan/keterkaitan**<br>
         <center>Tabel Ketergantungan dan Keterkaitan</center>
-|Dari       |Tugas Untuk    |Keterkaitan            |
-|Manager    |Anggota    |Tugas manager adalah untuk mengawasi anggota-anggotanya jika saat mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan |
-|Programmer |Tester     |Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.|
-|Administrator  |Manager    |Tugas Administrator bertanggung jawab untuk menyiapkan dokumen-dokumen yang akan di gunakan untuk penggarapan dan saat selesai hasil akhir projek. |
-|Analis     |Programmer |Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer. |
-|Tester     |Programmer |Bertugas sebagai memberi masukanmasukan kepada Programer untuk membuat program yang sedang di buat. |
+        <table border="1">
+            <tr>
+                <th>Dari</th>
+                <th>Tugas Untuk</th>
+                <th>Keterkaitan</th>
+            </tr>
+            <tr>
+                <td>Manager</td>
+                <td>Anggota</td>
+                <td>Tugas manager adalah untuk mengawasi anggota-anggotanya jika saat mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan</td>
+            </tr>
+            <tr>
+                <td>Programmer</td>
+                <td>Tester</td>
+                <td>Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.</td>
+            </tr>
+            <tr>
+                <td>Administrator</td>
+                <td>Manager</td>
+                <td>Tugas Administrator bertanggung jawab untuk menyiapkan dokumen-dokumen yang akan di gunakan untuk penggarapan dan saat selesai hasil akhir projek.</td>
+            </tr>
+            <tr>
+                <td>Analis</td>
+                <td>Programmer</td>
+                <td>Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer. </td>
+            </tr>
+            <tr>
+                <td>Tester</td>
+                <td>Programmer</td>
+                <td>Bertugas sebagai memberi masukanmasukan kepada Programer untuk membuat program yang sedang di buat.</td>
+            </tr>
+        </table>
 
 **5.3** **Kebutuhan Sumber Daya**<br>
     Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat
 dilihat pada tabel berikut ini :<br>
 <center>Tabel Kebutuhan Sumber Daya Manusia</center>
-|No |Nama Personal      |Job            |
-|1. |Prilyandi          |Manager        |
-|2. |Riyanwar Setiadi   |programmer     |
-|3. |Setyo Abiansah     |Administrator  |
-|4. |Uum Kumaeroh       |Sistem Analis  |
+<table border="1">
+    <tr>
+        <th>No</th>
+        <th>Nama Personal</th>
+        <th>Job</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Priliyandi</td>
+        <td>Project Manager</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Riyanwar Setiadi</td>
+        <td>Programmer</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Setyo Abiansah</td>
+        <td>Administrator</td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>Uum Khumaeroh</td>
+        <td>Analis</td>
+    </tr> 
+</table>
 
 <center>Tabel Kebutuhan Sumber Daya Hardware</center>
-|No |Jenis hardware         |Kebutuhan Hardware         |
-|1. |Processor              |Minimal Core i3 atau lebih |
-|2. |Memory(RAM)            |Minimal 4GB atau lebih     |
-|3. |Penyimpanan(Harddisk)  |Minimum 2GB atau lebih     |
-
+<table border="1">
+    <tr>
+        <th>No</th>
+        <th>Jenis Hardware</th>
+        <th>Kebutuhan Hardware</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Processor</td>
+        <td>Minimal Core i3 atau diatasnya</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Memory(RAM)</td>
+        <td>Minimal 4GB atau diatasnya</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Penyimpanan(Harddisk)</td>
+        <td>Minimal Free Space 2GB atau lebih</td>
+    </tr>
+</table>
 
 **5.4** Alokasi budget dan sumber daya<br>
     Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami,
 dapat dilihat pada tabel dibawah ini.<br>
          <center>Tabel Estimasi Biaya Software</center>
-|No |Kebutuhan Software         |Biaya      |
-|1. |Win 7,  10 dan Linux           |Gratis     |
-|2. |Microsoft Visual Studion, Sublime  |Gratis         |
-|3. |Xampp              |Gratis     |
-|4. |Android Studio         |Gratis     |
+<table>
+    <tr>
+        <th>No</th>
+        <th>Kebutuhan Software</th>
+        <th>Biaya</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Windows 7,10 dan Linux</td>
+        <td>Rp 2.500.000,-</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>SublimeText3</td>
+        <td>Rp 1.350.000,-</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Xampp</td>
+        <td>Rp 99.000,-</td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>Android Studio</td>
+        <td>Rp 50.000,-</td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td>Laragon</td>
+        <td>Rp 0,-</td>
+    </tr>
+    <tr>
+        <td>6.</td>
+        <td>Laravel</td>
+        <td>Rp 0,-</td>
+    </tr>
+</table>
 
 <center>Tabel Estimasi Biaya Hardware</center>
-|No |Jenis Hardware     ||Kebutuhan Hardware            |Biaya          |
-|1. |Laptop             |Minimal Core i3 atau lebih     |Rp 5.000.000,- |
-                        |Minimal RAM 4GB atau lebih     |
-                        |Kapasitas memori minimal 4GB   |--
+<table border="1">
+    <tr>
+        <th>No</th>
+        <th>Jenis Hardware</th>
+        <th>Kebutuhan Hardware</th>
+        <th>Biaya</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Laptop</td>
+        <td>Minimal Core i3 atau lebih, Minimal RAM 4GB atau lebih,
+        Kapasitas memori minimal 4GB atau lebih</td>
+        <td>Rp 7.000.000,-</td>
+    </tr>
+</table>
 
--->
 **5.5** **Jadwal**<br>
     <ol>Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak
 ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja
