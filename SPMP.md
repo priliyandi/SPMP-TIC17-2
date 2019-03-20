@@ -31,7 +31,7 @@
 
 
 
-1.** **Pendahuluan**<br><br>
+**1.** **Pendahuluan**<br><br>
     **1.1** **Gambaran Proyek** <br>
         <ol>Proyek yang sedang kami buat adalah Sistem Informasi Absensi dan Penggajian di Perusahaan Konveksi "Kafka". Kafka merupakan sebuah perusahaan konvenksi dengan karyawan yang cukup banyak. Oleh karena itu Sistem absen dan penggajian merupakan hal yang sangat pokok pada kegiatan financial sebuah perusahaan karena hal tersebut sangat berpengaruh kepada kinerja para pegawai yang setiap hari melakukan aktifitas. Sistem penggajian menyajikan cara-cara penggajian pegawai secara akurat, menghasilkan laporan-laporan yang diperlukan dan menyajikan kebutuhan informasi kepada manajemen. </ol><br>
         <ol>Adapun kendala yang dihadapi di Kafka konveksi yaitu absensi dan penggajian yang masih dilakukan secara manual masih berbentuk arsip sehingga memperlambat dalam proses pencarian, penghitungan dan proses pembuatan laporan penggajian. oleh karena itu akan dirancang sebuah sistem informasi absensi dan  penggajian, antara lain meliputi sistem absensi karyawan, sistem penghitungan gaji dan berbagai attributnya seperti lembur, cuti, potongan dan sebagainya secara terotomatisasi. Selain itu sistem juga mampu membuat berbagai laporan baik yang ditujukan untuk karyawan seperti slip gaji dan laporan yang ditujukan untuk direktur seperti laporan data karyawan, laporan absensi karyawan, dan laporan gaji karyawan secara terotomatisasi dimana system informasi tersebut dibuat dengan Framework Laravel dan Android.</ol><br>
@@ -48,9 +48,8 @@
         IEEE = The International Institute of Electronic and Electrical Engineers<br><br>
 **2.** **Organisasi Proyek**<br><br>
    **2.1** **Model proses**<br>
-
-        <ol>Kami menggunakan model sashimi, Proses perangkat lunak sashimi (Takeuchi + Nonaka1986-nnpd) sangat mirip dengan model waterfall, kecuali bahwa fase tumpang tindih untuk menunjukkan bahwa persyaratan tidak dapat diselesaikan sampai arsitektur setidaknya sebagian dieksplorasi, dan arsitektur tidak dapat diselesaikan sampai desain modul setidaknya sebagian dieksplorasi, dan sebagainya.</ol><br>
-        <ol>Proses sashimi paling tepat untuk proyek-proyek berukuran sedang di mana komunikasi antar fase dapat ditangani secara improvisasi. Untuk proyek yang lebih besar, proyek berisiko tinggi, atau proyek di mana beberapa pengembang berpengalaman, pendekatan spiral mungkin lebih baik.</ol><br>
+        Kami menggunakan model sashimi, Proses perangkat lunak sashimi (Takeuchi + Nonaka1986-nnpd) sangat mirip dengan model waterfall, kecuali bahwa fase tumpang tindih untuk menunjukkan bahwa persyaratan tidak dapat diselesaikan sampai arsitektur setidaknya sebagian dieksplorasi, dan arsitektur tidak dapat diselesaikan sampai desain modul setidaknya sebagian dieksplorasi, dan sebagainya.<br>
+        Proses sashimi paling tepat untuk proyek-proyek berukuran sedang di mana komunikasi antar fase dapat ditangani secara improvisasi. Untuk proyek yang lebih besar, proyek berisiko tinggi, atau proyek di mana beberapa pengembang berpengalaman, pendekatan spiral mungkin lebih baik.<br>
 ​    **2.2** **Struktur Organisasi**<br>
         <ol>Project Manager         : Priliyandi<br>
         Programmer              : Riyanwar Setiadi<br>
