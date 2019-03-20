@@ -66,3 +66,64 @@
         <li>Database Administrator adalah seseorang yang bertanggung jawab terhadap pengaturan, pembuatan, dan rekam jejak segala jenis dokumen yang terlibat dalam proyek. Mulai dari proposal dan kontrak proyek, sampai dengan hasil sampling atau percobaan dalam proses pembangunan proyek. Disamping dokumen, hal-hal yang berkaitan dengan komunikasi antara anggota proyek dengan perusahaan dan vendors juga harus dikelola oleh Administrator. Agar segalanya berjalan dengan lancar, biasanya Administrator sudah memiliki standar dokumen dan prosedur yang harus diikuti oleh seluruh tim proyek, agar proses administrasi berjalan dengan efektif dan secara efisien. <br>
         <li>Analisys sistem, Banyak hal yang harus dilakukan oleh seorang sistem analis, terutama yang berkaitan dengan pemecahan masalah. Seorang sistem analis harus mampu menganalisa segala kemungkinan dari pemasalahan yang ada, dan dapat mengasilkan solusi yang tepat dari permasalahan tersebut. Menentukan sistem yang tepat merupakan bagian dari tugas seorang sistem analis, sehingga kinerja tim dapat berjalasan secara efesien.</ol> <br>
 
+
+
+
+**3.** **Proses Manajerial**<br>
+    **3.1** **Tujuan dan prioritas manajemen**<br>
+        <ol><li>Prioritas Jadwal <br>
+            Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi<br>
+        <li>Budget <br>
+            Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.  <br>
+        <li>Kemampuan (Kualitas dan reusability)  <br>
+            Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.<br></ol>
+    **3.2** **Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**<br>
+<ol>a. Asumsi <br>
+Adapun aplikasi yang sejenis sistem informasi absensi dan penggajian berbasis web dan mobile. <br>
+b. Keterkaitan dan Batasan  <br>
+Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. Namun ada batasannya, yaitu tidak bisa digunakan secara online. <br></ol>
+
+ **3.3** **Manajemen resiko**<br>
+<table border="1">
+    <tr>
+        <td>Resiko</td>
+        <td>Solusi</td>
+    </tr>
+    <tr>
+        <td>Kerusakan Teknologi dan bahan produk</td>
+        <td>Mengganti dengan teknologi yang baru dengan sistem yang sama</td>
+    </tr>
+    <tr>
+        <td>Estimasi biaya dan waktu yang tidak realistis</td>
+        <td>Membuat berapa biaya estimasi, desain untuk kerja, merekam dan menganalisa project yang akan dibuat</td>
+    </tr>
+    <tr>
+        <td>Pengembangannya terlalu sulit secara teknis</td>
+        <td>Analisis teknis, analisa biaya manfaat, analisa software, simulasi software</td>
+    </tr>
+</table>
+
+**3.4** **Mekanisme monitoring dan kontroling**<br>
+        <ol>a. Pertemuan proyek II seminggu 3 kali
+        b. Repository bersama di Github</ol>
+   
+**3.5** **Perencanaan staf**
+        <ol>1.  Priliyandi (Project Manager)
+        2.  Riyanwar Setiadi (Programmer)
+        3. Setyo Abiansah (Database Administrator)
+        4.  Uum Khumaeroh (Analisis Sistem)</ol>
+        
+ **4.**  **Proses teknis**<br>
+**4.1** **Metoda, tool, dan teknik**<br>
+        <ol>Proyek II ini akan menggunakan tools, metoda, dan teknologi yaitu :
+            1. Android Studio
+            2. Laravel
+            3. laragon
+            4. SubimeText3
+            5. Bootstrap</ol>
+            
+**4.2** **Dokumentasi perangkat lunak**<br>
+<ol> Dokumentasi peragkat lunak yang digunakan berdasarkan standar internasional IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak</ol>
+   
+**4.3** **Fungsi-fungsi pendukung proyek**
+        <ol>Semua pendukung proyek akan selesai secara bertahap</ol>
