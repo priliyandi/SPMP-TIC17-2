@@ -67,8 +67,6 @@
         <li>Analisys sistem, Banyak hal yang harus dilakukan oleh seorang sistem analis, terutama yang berkaitan dengan pemecahan masalah. Seorang sistem analis harus mampu menganalisa segala kemungkinan dari pemasalahan yang ada, dan dapat mengasilkan solusi yang tepat dari permasalahan tersebut. Menentukan sistem yang tepat merupakan bagian dari tugas seorang sistem analis, sehingga kinerja tim dapat berjalasan secara efesien.</ol> <br>
 
 
-
-
 **3.** **Proses Manajerial**<br>
     **3.1** **Tujuan dan prioritas manajemen**<br>
         <ol><li>Prioritas Jadwal <br>
@@ -104,26 +102,26 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
 </table>
 
 **3.4** **Mekanisme monitoring dan kontroling**<br>
-        <ol>a. Pertemuan proyek II seminggu 3 kali
-        b. Repository bersama di Github</ol>
+        <ol>a. Pertemuan proyek II seminggu 3 kali<br>
+        b. Repository bersama di Github</ol><br>
    
 **3.5** **Perencanaan staf**
-        <ol>1.  Priliyandi (Project Manager)
-        2.  Riyanwar Setiadi (Programmer)
-        3. Setyo Abiansah (Database Administrator)
-        4.  Uum Khumaeroh (Analisis Sistem)</ol>
+        <ol>1.  Priliyandi (Project Manager)<br>
+        2.  Riyanwar Setiadi (Programmer)<br>
+        3. Setyo Abiansah (Database Administrator)<br>
+        4.  Uum Khumaeroh (Analisis Sistem)<br></ol>
         
  **4.**  **Proses teknis**<br>
 **4.1** **Metoda, tool, dan teknik**<br>
-        <ol>Proyek II ini akan menggunakan tools, metoda, dan teknologi yaitu :
-            1. Android Studio
-            2. Laravel
-            3. laragon
-            4. SubimeText3
-            5. Bootstrap</ol>
+        <ol>Proyek II ini akan menggunakan tools, metoda, dan teknologi yaitu :<br>
+            1. Android Studio<br>
+            2. Laravel<br>
+            3. laragon<br>
+            4. SubimeText3<br>
+            5. Bootstrap<br></ol>
             
 **4.2** **Dokumentasi perangkat lunak**<br>
-<ol> Dokumentasi peragkat lunak yang digunakan berdasarkan standar internasional IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak</ol>
+<ol> Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak</ol>
    
 **4.3** **Fungsi-fungsi pendukung proyek**
         <ol>Semua pendukung proyek akan selesai secara bertahap</ol>
